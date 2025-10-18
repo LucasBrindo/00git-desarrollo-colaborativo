@@ -34,3 +34,11 @@ git config --global -e
 
 * Local Repo (Area de validación de cambios, donde se registran las modificaciones realizadas) Donde van a estar todas las fotos (commit) que vaya sacando.
 
+* Resumen 
+
+git init
+git add README.md o git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LucasBrindo/00git-desarrollo-colaborativo.git
+git push -u origin main
