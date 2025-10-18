@@ -18,3 +18,7 @@ git add --patch --->>>>
 git diff
 
 git diff --staged
+
+
+## Dividir el commit en varias partes = git add --patch/ selecciono e y edito lo quye quiero subir
+
