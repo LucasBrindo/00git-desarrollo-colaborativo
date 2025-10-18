@@ -12,3 +12,9 @@ git log --oneline --all  --> trae todo incluido lo que no descargue
 git pull
 
 git add si o si para agregar los cambios dentro de los archivos
+
+git add --patch --->>>> 
+
+git diff
+
+git diff --staged
