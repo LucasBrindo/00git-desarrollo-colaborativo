@@ -1,0 +1,83 @@
+[33mcommit 60a3042abce46614dbf75e9320d6d72419322980[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 24 21:12:59 2025 -0300
+
+    explicacion git reset
+
+[33mcommit 9606a2465180f0b13d58b8dc500ae0a0dadc56c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 24 20:48:40 2025 -0300
+
+    clase05
+
+[33mcommit 74cf85cab61d69ce67446c1df13a9fa989e6a7d5[m[33m ([m[1;32mfeature/rama[m[33m)[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Wed Oct 22 21:15:23 2025 -0300
+
+    nuevarama
+
+[33mcommit 5d3cb084a8d81a84de74fb5ba081b66b1fbbe75a[m[33m ([m[1;32mClase4[m[33m)[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Wed Oct 22 20:46:30 2025 -0300
+
+    Clase4_1
+
+[33mcommit 7f30cc9ae253fbad2bbcceae606b60fc71eb57ba[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 21:37:11 2025 -0300
+
+    update
+
+[33mcommit 3dbc0cfe245c6c92262691ed476a11bb50f4dfd0[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 21:30:58 2025 -0300
+
+    agregar docu2 subir el resto de los cambios
+
+[33mcommit c736f1a3bbecbca3a01eff197810e5bfd7fd5945[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 21:30:31 2025 -0300
+
+    agregar docu2 subir cambios seleccionados
+
+[33mcommit b6528bcfb1be60ca665afd0aaed927165b8d35b8[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 21:17:13 2025 -0300
+
+    agregar docu2
+
+[33mcommit fe9bfc668f9c15a0b63c83cb6048baebd94e27e4[m
+Author: LucasBrindo <85082673+LucasBrindo@users.noreply.github.com>
+Date:   Fri Oct 17 21:00:30 2025 -0300
+
+    Add initial content to README.md
+
+[33mcommit f0e20e4c3aa83ba2355b85d7c8692a8bb63ce18a[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 20:58:38 2025 -0300
+
+    update
+
+[33mcommit 920d47b28811b85dbe39e695b817593803613459[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 20:57:38 2025 -0300
+
+    update
+
+[33mcommit efcb24c8eb5f1f2f09d66f4e1435cf4a94a6059a[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 19:37:40 2025 -0300
+
+    3er commit
+
+[33mcommit 5e8318aa62b5152ecf603f9b3832f1e4d7cc7221[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 19:32:39 2025 -0300
+
+    second commit
+
+[33mcommit bb31427ba48eec66df4230861e961dc08a488847[m
+Author: LucasBrindo <lucas.brindo@gmail.com>
+Date:   Fri Oct 17 19:26:59 2025 -0300
+
+    first commit
