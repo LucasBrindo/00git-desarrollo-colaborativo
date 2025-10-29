@@ -46,4 +46,26 @@ git add . && git commit -m "agrego funcion reset hard"
 
 git reset --hard <hash>
 
+------------------------------------------------------------------------------------------
+## git stash 
+### listar stashes
+git stash list
+
+### creo el stash
+git stash
+
+## ver contenido del stash
+git stash shw -p <stash>
+
+
+git stash -m "info del commit"
+
+git pop <stash> borra el stash desues de cargarlo
+
+git apply <stash> no borra el stsh despeus de cargarlo
+
+despues de cargarlo se puede hacer el git commit -m
+
+
+
 
