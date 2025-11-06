@@ -18,3 +18,12 @@ git push origin --tags
 ## subir solo el tag que quiero
 git push origin v2.0.0
 
+# generar un tag en un commit especifico
+
+git tag -a <hash> -m "titulo"
+
+## eliminar tag
+
+git -d nombredeltag
+
+## 
